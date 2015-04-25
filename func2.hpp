@@ -3,4 +3,4 @@
 
 void func2();
 
-#endif FUNC2
+#endif // FUNC2
