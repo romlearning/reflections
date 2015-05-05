@@ -6,5 +6,5 @@ using std::endl;
 #include "func2.hpp"
 
 void func2() {
-  cout << "func2" << endl;
+  cout << "func2 from another branch" << endl;
 }
